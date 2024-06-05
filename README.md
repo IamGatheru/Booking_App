@@ -1,0 +1,1 @@
+This CLI application is a ticket booking app for a golang conference. I will be adding more features as i Learn go lang concepts. In the end, i am hoping to write a fully function application with a user interface.
